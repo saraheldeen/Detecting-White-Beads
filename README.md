@@ -2,7 +2,7 @@
 
 # CS216 — Homework 2 (Structured Experiments)
 
-This repository contains a single Python script, **`CS216_HW2_SE.py`**, used for coursework or experimentation in *CS216: Scientific Computing / Data Analysis / Machine Learning Foundations*.
+This repository contains a single Python script, **`CS216_HW2_SE.py`**, used for coursework or experimentation in *CS216: Image Understadning / Computer Vision *.
 
 The file demonstrates structured coding practices for numerical computation, including function definitions, data handling, visualization, and reproducible experimentation.
 
