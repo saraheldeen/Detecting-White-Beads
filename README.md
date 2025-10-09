@@ -1,6 +1,6 @@
 # Detecting White Beads:
 
-# CS216 — Homework 2 (Structured Experiments)
+# CS216: Computer Vision
 
 This repository contains a single Python script, **`CS216_HW2_SE.py`**, used for coursework or experimentation in *CS216: Image Understadning / Computer Vision *.
 
