@@ -1,0 +1,17 @@
+name: pytorchenv
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - pillow
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+      - patchify
+      - tqdm
